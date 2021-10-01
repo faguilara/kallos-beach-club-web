@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/kallos-beach-club-web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
